@@ -2,6 +2,9 @@
 title: Markdown使用指南
 date: 2017-10-28 15:34:09
 tags:
+  - markdown
+categories:
+  - 技术
 ---
 Markdown是一种电子风格的标记语言，它能让写作者关注于写作内容本身，而不是文章的排版。平时使用Github的朋友会发现每个项目都会有一个后缀名为.md的文件，那就是Markdown格式写的文本文件。除了GitHub，还有很多地方都会使用到Markdown，如简书，Hexo。我是在使用简书的时候才开始接触Markdown并且深深地爱上了这种简洁的标记语言，在此推荐给大家。<!--more--> 
 

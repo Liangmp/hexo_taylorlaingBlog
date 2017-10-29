@@ -1,11 +1,9 @@
 ---
-title: about
+title: About Me
 date: 2017-10-24 22:39:07
 ---
 
-Feel free to contact me at:
-
-Eamil: liangmangping@outlook.com
+Feel free to contact me at liangmangping@outlook.com
 
 You are very welcome to follow me at [tweeter](https://twitter.com/liangmanping)
 

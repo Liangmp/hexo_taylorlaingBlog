@@ -1,6 +1,8 @@
 ---
 title: 我的第一篇博客 My First Post
 date: 2017-10-23 17:07:28
+categories:
+  - 随笔
 ---
 欢迎来到[TaylorLiang](http://taylorliang.coding.me/blog/)的个人博客，这是我的第一篇博客文章，这里可以聊任何：
 - 关于编程的话题

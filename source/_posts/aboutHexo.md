@@ -2,18 +2,32 @@
 title: 关于hexo的使用
 date: 2017-10-24 23:24:37
 tags:
-  hexo
+  - hexo
+categories:
+  - 技术
 ---
 本文会不定时更新一些hexo的使用技巧。
 <!--more-->
 
 # hexo常用命令行
+```
 - hexo g = hexo generate // 生成
 - hexo s = hexo server   // 运行服务器
 - hexo d = hexo deploy   // 部署
 - hexo new post "title"  // 新建博客文章
 - hexo hew page "tags/catagories/about" // 开启tags/catagories/about功能，将会在source文件夹下自动新建相应的文件
 - hexo clean // 清除之前生成的静态网页文件，即删除public文件夹内的所有东西，相当于把整个public文件夹删除掉。
+```
+
+hexo环境搭建好后，写新的博客文章可以采用以下顺序的命令行：
+```
+hexo new post "title"  //新建完之后到source/_post里面能找到对应的title.md，打开写文章，保存
+hexo clean //清除缓存
+hexo generate //生成。建议新手用完整的命令语句而不是使用缩写的hexo g，这样可以让自己清楚每一步是干什么的。
+hexo server //运行服务器，然后在浏览器上打开localhost:4000查看效果
+hexo deploy // 部署到repository上
+```
+deploy完之后博客可能不是马上更新的，需要等个几分钟，不要着急。
 
 附上hexo的[中文版指令文档](https://hexo.io/zh-cn/docs/commands.html)
 
