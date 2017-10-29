@@ -4,7 +4,7 @@ date: 2017-10-23 17:07:28
 categories:
   - 随笔
 ---
-欢迎来到[TaylorLiang](http://taylorliang.coding.me/blog/)的个人博客，这是我的第一篇博客文章，这里可以聊任何：
+欢迎来到[TaylorLiang](https://liangmp.github.io/)的个人博客，这是我的第一篇博客文章，这里可以聊任何：
 - 关于编程的话题
 - 关于科技的话题
 - 关于Java的话题
@@ -16,7 +16,7 @@ categories:
 <!--more-->
 
 
-Welcome to [TaylorLiang](http://taylorliang.coding.me/blog/)'s home page! This is my very first post.
+Welcome to [TaylorLiang](https://liangmp.github.io/)'s home page! This is my very first post.
 Here we can talk about:
 - Everything about programming
 - Everything about technology
@@ -27,4 +27,4 @@ Here we can talk about:
 
 Please feel free to exchange your idea in my blog.
 
-![silliconValley](MyFirstPost/silicon-valley-season-2-animation.png)
+![silliconValley](MyFirstPost/silicon-valley-season2.jpg)

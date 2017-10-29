@@ -3,12 +3,29 @@ title: About Me
 date: 2017-10-24 22:39:07
 ---
 
-Feel free to contact me at liangmangping@outlook.com
+</br>
+***
+## Personal Info
+- Name: Taylor Liang
+- Hometown: Zhuhai, Guangdong
 
-You are very welcome to follow me at [tweeter](https://twitter.com/liangmanping)
+***
 
-欢迎关注我的简书[Liangmp](http://www.jianshu.com/u/fd9fbe96c3c2)
+## Education
+- 2011-2014&nbsp;珠海市斗门区第一中学
+- 2014-2018&nbsp;中山大学&nbsp;Sun Yat-sen University
 
-我的Github: [Liangmp](https://github.com/Liangmp/)
-
-![](http://upload-images.jianshu.io/upload_images/5899000-75676e7622dd62e9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+***
+## Interests
+- Coding/Programming
+- Guitar
+- Ping-pong
+- Running
+***
+## Contact Me
+- Email: &nbsp;&nbsp;&nbsp; liangmangping@outlook.com
+- Tweeter: [Tweeter](https://twitter.com/liangmanping)
+- 简&nbsp;&nbsp;书: &nbsp;&nbsp;&nbsp; [Liangmp](http://www.jianshu.com/u/fd9fbe96c3c2)
+- Github: &nbsp; [Liangmp](https://github.com/Liangmp/)
+***
+![](about/index/about.jpg)
