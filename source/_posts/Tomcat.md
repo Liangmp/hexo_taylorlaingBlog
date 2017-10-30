@@ -3,10 +3,11 @@ title: Tomcat部署
 date: 2017-10-24 11:08:24
 tags:
   - tomcat
+categories:
+  - 技术
 ---
 网站部署常用的有三种，Apache的Tomcat，Microsoft的IIS (Internet Information Services)，和IBM的WAS (WebSphere Application Server)。今天主要介绍第一种部署方式，Tomcat。
 <!--more-->
-
 
 Tomcat是一个免费的、开源的Servlet容器，它是Apache基金会的Jakarta项目中的一个核心项目，由Apache、Sun和其他一些公司及个人共同开发而成的。Tomcat技术先进、性能稳定，而且免费，因此深受Java开发者的喜爱，成为目前最流行的Web应用服务器。
 
