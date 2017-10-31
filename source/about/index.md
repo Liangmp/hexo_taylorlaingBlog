@@ -6,26 +6,27 @@ date: 2017-10-24 22:39:07
 </br>
 ***
 ## Personal Info
-- Name: Taylor Liang
-- Hometown: Zhuhai, Guangdong
+- Name: &nbsp;&emsp;&emsp;&emsp; Taylor Liang
+- Hometown: &emsp; Zhuhai, Guangdong
 
 ***
 
 ## Education
-- 2011-2014&nbsp;珠海市斗门区第一中学
-- 2014-2018&nbsp;中山大学&nbsp;Sun Yat-sen University
+- 2011-2014&nbsp;&emsp;珠海市斗门区第一中学
+- 2014-2018&nbsp;&emsp;中山大学&nbsp;Sun Yat-sen University
 
 ***
 ## Interests
-- Coding/Programming
+- Coding/programming
 - Guitar
 - Ping-pong
 - Running
 ***
 ## Contact Me
-- Email: &nbsp;&nbsp;&nbsp; liangmangping@outlook.com
-- Tweeter: [Tweeter](https://twitter.com/liangmanping)
-- 简&nbsp;&nbsp;书: &nbsp;&nbsp;&nbsp; [Liangmp](http://www.jianshu.com/u/fd9fbe96c3c2)
-- Github: &nbsp; [Liangmp](https://github.com/Liangmp/)
+- Email: &nbsp;&nbsp;&nbsp; &emsp;liangmangping@outlook.com
+- Tweeter: &emsp;[Tweeter](https://twitter.com/liangmanping)
+- 简&nbsp;&nbsp;书: &nbsp;&nbsp;&nbsp; &emsp;[Liangmp](http://www.jianshu.com/u/fd9fbe96c3c2)
+- Github: &nbsp; &emsp;[Liangmp](https://github.com/Liangmp/)
+>>>>>>> 1124d8af09d681bdddfe7c59e14de4a557a9ca0f
 ***
 ![](about/index/about.jpg)
