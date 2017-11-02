@@ -4,7 +4,7 @@ date: 2017-10-25 20:37:55
 categories:
   - 随笔
 ---
-微博上、微信上、知识星球上都看到过，觉得写得很好，想在博客上分享给大家。<!--more-->
+微博上、微信上以及知识星球（*帅张和他的朋友们*）上都看到过，觉得写得很好，想在博客上分享给大家。<!--more-->
 
 ![](http://upload-images.jianshu.io/upload_images/4792972-233ac537ed57c264.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 

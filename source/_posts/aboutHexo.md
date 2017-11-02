@@ -78,7 +78,7 @@ menu:
 ---
 
 # 关于markdown的使用技巧
-Markdown是一种电子风格的标记语言，它能让写作者关注于写作内容本身，而不是文章的排版。个人觉得Markdown非常方便好用，特别写了一篇博客[Markdown使用指南](https://taylorliang.coding.me/blog/2017/10/28/markdown/#more)感兴趣的同学可以进去看一下。
+Markdown是一种电子风格的标记语言，它能让写作者关注于写作内容本身，而不是文章的排版。个人觉得Markdown非常方便好用，特别写了一篇博客[Markdown使用指南](https://liangmp.github.io/2017/10/28/markdown/#more)感兴趣的同学可以进去看一下。
 
 
 

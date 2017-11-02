@@ -41,7 +41,7 @@ Hexo是一个用JavaScript写的开源静态博客框架，node.js是JavaScript�
 在D:\git里面新建一个文件夹，命名为“blog”，命名为其他也没关系，你喜欢就行。右键git bash here，然后输入下面的命令行安装hexo,
 `npm install -g hexo-cli`
 如果安装太慢或者安装不成功，可以先安装淘宝npm来代替npm，具体命令行如下，
-`npm iinstall -g cnpm --registry=https://registry.np.taobao.org`
+`npm install -g cnpm --registry=https://registry.np.taobao.org`
 然后继续输入命令行：
 `hexo init`
 安装依赖包：
@@ -54,7 +54,7 @@ Hexo是一个用JavaScript写的开源静态博客框架，node.js是JavaScript�
 hexo generate
 hexo server
 ```
-待git bash显示`INFO Hexo is running at http://localhost:4000/. Press Ctrl+C to stop`时，打开浏览器，在地址栏输入http://localhost:4000/，如果浏览器显示如下画面，就说明你已经成功搭建好了，先找个角落开心一小会儿去吧~
+待git bash显示`INFO Hexo is running at http://localhost:4000/. Press Ctrl+C to stop`时，打开浏览器，在地址栏输入http://localhost:4000/ ，如果浏览器显示如下画面，就说明你已经成功搭建好了，先找个角落开心一小会儿去吧~
 ![localhost4000](hexoBlog/localhost4000.jpg)
 ## Github的设置
 开心完之后可以回来继续工作了，上述步骤只是在本地上部署好了，但是并没有部署到网上，也就是说目前就只有你能看见，别人还是看不见的，需要将本地文件和Github关联起来。
@@ -117,5 +117,8 @@ hexo deploy   //部署到远程仓库上，也可以简写成 hexo d
 ## Next主题的安装和设置
 Text是一种优雅且好用的Hexo主题，在[Github](https://github.com/iissnan/hexo-theme-next)上获得了大量的star和folk，目前在网上见到个人博客大多数都采用了next。
 
-未完待续，敬请期待……
+。。。
+
 ---
+
+未完待续，敬请期待……
