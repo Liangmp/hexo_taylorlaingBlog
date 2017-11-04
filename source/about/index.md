@@ -27,5 +27,6 @@ date: 2017-10-24 22:39:07
 - Tweeter: &emsp;[Tweeter](https://twitter.com/liangmanping)
 - 简&nbsp;&nbsp;书: &nbsp;&nbsp;&nbsp; &emsp;[Liangmp](http://www.jianshu.com/u/fd9fbe96c3c2)
 - Github: &nbsp; &emsp;[Liangmp](https://github.com/Liangmp/)
+- You can view my CV [here](https://liangmp.github.io/about/my_cv/)
 ***
 ![](about/index/about.jpg)

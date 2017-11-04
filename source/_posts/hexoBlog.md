@@ -1,5 +1,5 @@
 ---
-title: 如何用Github+Hexo搭建博客网站
+title: 如何用Github+Hexo搭建博客网站(1)
 date: 2017-10-31 21:36:08
 tags:
   - hexo
@@ -104,6 +104,9 @@ repository下面一行的地址改成你自己的代码仓库地址，你的代�
 ### 修改title,description等
 如图所示，根据你个人喜好来修改。
 ![](hexoBlog/site.png)
+修改后效果如下图所示
+![](hexoBlog/head.png)
+其中，language: zh-Hans表示博客使用简体中文，avatar是头像设置，头像的更换方法是在sourc文件夹内新建文件夹命名为images，在里面放置你想要显示的头像图片。
 
 ## 博客管理及博文更新
 保存好所有修改，在blog文件夹下git bash输入如下代码：
@@ -114,11 +117,7 @@ hexo deploy   //部署到远程仓库上，也可以简写成 hexo d
 ```
 此时可以尝试在浏览器中输入https://yourname.github.io ，如果能出现hexo画面，就说明已成功绑定Github远程仓库，github+hexo的博客搭建已经基本完成，剩下的就得靠你自己去不断探索啦，大胆地按照你的个人喜好DIY你的个人博客吧。
 
-## Next主题的安装和设置
-Text是一种优雅且好用的Hexo主题，在[Github](https://github.com/iissnan/hexo-theme-next)上获得了大量的star和folk，目前在网上见到个人博客大多数都采用了next。
+## Next主题的安装和配置
+Next是一种优雅且好用的Hexo主题，在[Github](https://github.com/iissnan/hexo-theme-next)上获得了大量的star和folk，目前在网上见到个人博客大多数都采用了next。
 
-。。。
-
----
-
-未完待续，敬请期待……
+这一part的安装和使用说明请移步到下一篇博文。
