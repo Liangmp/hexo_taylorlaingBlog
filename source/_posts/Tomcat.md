@@ -5,6 +5,7 @@ tags:
   - tomcat
 categories:
   - 技术
+  - Programming
 ---
 ![](Tomcat/tomcat.png)
 网站部署常用的有三种，Apache的Tomcat，Microsoft的IIS (Internet Information Services)，和IBM的WAS (WebSphere Application Server)。今天主要介绍第一种部署方式，Tomcat。
@@ -31,7 +32,7 @@ Ps：在安装tomcat之前需要先安装JRE (Java Runtime Environment)
 ![new a jsp](11_newTest.png)
 
 用文本文档或者notepad++打开新建是test.jsp，在里面添加如下代码：
-```
+```jsp
 <%@ page contentType="text/html; charset=gb2312" %>
 <html>
 <head>
@@ -82,7 +83,7 @@ Ps：在安装tomcat之前需要先安装JRE (Java Runtime Environment)
 </body>
 </html>
 ```
-保存代码文件，在浏览器地址栏中输入http://localhost:8080/test/test.jsp，页面显示效果如下：
+保存代码文件，在浏览器地址栏中输入http://localhost:8080/test/test.jsp ，页面显示效果如下：
 
 ![test.jsp in tomcat](12_test.jsp in tomcat.png)
 

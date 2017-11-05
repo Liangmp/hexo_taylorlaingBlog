@@ -7,14 +7,14 @@ comments: false
 </br>
 ***
 ## Personal Info
-- Name: &nbsp;&emsp;&emsp;&emsp; Taylor Liang
-- Hometown: &emsp; Zhuhai, Guangdong
+- __Name__: &nbsp;&emsp;&emsp;&emsp; Taylor Liang
+- __Hometown__: &emsp; Zhuhai, Guangdong
 
 ***
 
 ## Education
-- 2011-2014&nbsp;&emsp;珠海市斗门区第一中学
-- 2014-2018&nbsp;&emsp;中山大学&nbsp;Sun Yat-sen University
+- __2011-2014__&nbsp;&emsp;珠海市斗门区第一中学
+- __2014-2018__&nbsp;&emsp;中山大学&nbsp;Sun Yat-sen University
 
 ***
 ## Interests
@@ -24,10 +24,10 @@ comments: false
 - Running
 ***
 ## Contact Me
-- Email: &nbsp;&nbsp;&nbsp; &emsp;liangmangping@outlook.com
-- Tweeter: &emsp;[Tweeter](https://twitter.com/liangmanping)
-- 简&nbsp;&nbsp;书: &nbsp;&nbsp;&nbsp; &emsp;[Liangmp](http://www.jianshu.com/u/fd9fbe96c3c2)
-- Github: &nbsp; &emsp;[Liangmp](https://github.com/Liangmp/)
+- __Email__: &nbsp;&nbsp;&nbsp; &emsp;liangmangping@outlook.com
+- __Tweeter__: &emsp;[Tweeter](https://twitter.com/liangmanping)
+- __简&nbsp;&nbsp;书__: &nbsp;&nbsp;&nbsp; &emsp;[Liangmp](http://www.jianshu.com/u/fd9fbe96c3c2)
+- __Github__: &nbsp; &emsp;[Liangmp](https://github.com/Liangmp/)
 - You can view my CV [here](https://liangmp.github.io/about/my_cv/)
 ***
 ![](about/index/about.jpg)
