@@ -6,6 +6,7 @@ tags:
 categories:
   - 技术
 ---
+![](Tomcat/tomcat.png)
 网站部署常用的有三种，Apache的Tomcat，Microsoft的IIS (Internet Information Services)，和IBM的WAS (WebSphere Application Server)。今天主要介绍第一种部署方式，Tomcat。
 <!--more-->
 

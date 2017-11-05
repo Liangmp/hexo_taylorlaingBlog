@@ -25,6 +25,7 @@ categories:
 ![](nextHexo/3.png)
 
 ## 其他配置
+
 ### footer页脚设置
 这段代码用于设置footer页脚的显示，这里可以根据自己的喜好，将Icon between year and copyright info修改成`icon: heart`
 ![](nextHexo/footer.png)
@@ -32,6 +33,13 @@ categories:
 ### menu菜单设置
 添加tags，categories和about，修改如下：
 ![](nextHexo/menu.png)
+修改完配置文件后，需要在git bash输入以下命令行：
+```
+hexo hew page "tags" // 开启tags功能，将会在source文件夹下自动新建名为tags的文件夹
+hexo hew page "categories" // 开启categories功能，将会在source文件夹下自动新建名为categories的文件夹
+hexo hew page "about" // 开启about功能，将会在source文件夹下自动新建名为about的文件夹
+```
+![](nextHexo/sourceFolder.png)
 
 ### 文章设置
 在post_meta里可以设置显示文章的创建日期，修改日期，所属分类等信息。
@@ -42,7 +50,7 @@ categories:
 ![](nextHexo/codeHightlightTheme.png)
 
 ### 博客访问量统计
-有多种博客访问量统计的方法，这里介绍其中一种非常简便的方法，交busuanzi，修改代码如下：
+有多种博客访问量统计的方法，这里介绍其中一种非常简便的方法，叫busuanzi，修改代码如下：
 ![](nextHexo/busuanzi.png)
 
 ### 开通博客留言功能

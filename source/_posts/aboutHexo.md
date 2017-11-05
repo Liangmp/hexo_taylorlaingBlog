@@ -11,11 +11,11 @@ categories:
 
 # hexo常用命令行
 ```
-- hexo g = hexo generate // 生成
-- hexo s = hexo server   // 运行服务器
-- hexo d = hexo deploy   // 部署
-- hexo new post "title"  // 新建博客文章
-- hexo hew page "tags/catagories/about" // 开启tags/catagories/about功能，将会在source文件夹下自动新建相应的文件
+hexo g = hexo generate // 生成
+hexo s = hexo server   // 运行服务器
+hexo d = hexo deploy   // 部署
+hexo new post "title"  // 新建博客文章
+hexo hew page "tags/catagories/about" // 开启tags/catagories/about功能，将会在source文件夹下自动新建相应的文件夹和文件
 - hexo clean // 清除之前生成的静态网页文件，即删除public文件夹内的所有东西，相当于把整个public文件夹删除掉。
 ```
 
