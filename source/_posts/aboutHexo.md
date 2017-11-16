@@ -6,17 +6,17 @@ tags:
 categories:
   - 技术
 ---
-本文会不定时更新一些hexo的使用技巧。
+本文用于记录hexo的使用笔记，会不定时更新一些hexo的使用技巧，如果你还没有用过hexo或者不知道hexo是什么，请移步[如何用Github+Hexo搭建博客网站(1)](https://liangmp.github.io/2017/10/31/hexoBlog/)。
 <!--more-->
 
 # hexo常用命令行
 ```
-- hexo g = hexo generate // 生成
-- hexo s = hexo server   // 运行服务器
-- hexo d = hexo deploy   // 部署
-- hexo new post "title"  // 新建博客文章
-- hexo hew page "tags/catagories/about" // 开启tags/catagories/about功能，将会在source文件夹下自动新建相应的文件
-- hexo clean // 清除之前生成的静态网页文件，即删除public文件夹内的所有东西，相当于把整个public文件夹删除掉。
+hexo g = hexo generate // 生成
+hexo s = hexo server   // 运行服务器
+hexo d = hexo deploy   // 部署
+hexo new post "title"  // 新建博客文章
+hexo hew page "tags/catagories/about" // 开启tags/catagories/about功能，将会在source文件夹下自动新建相应的文件夹和文件
+hexo clean // 清除之前生成的静态网页文件，即删除public文件夹内的所有东西，相当于把整个public文件夹删除掉。
 ```
 
 hexo环境搭建好后，写新的博客文章可以采用以下顺序的命令行：
@@ -78,7 +78,7 @@ menu:
 ---
 
 # 关于markdown的使用技巧
-Markdown是一种电子风格的标记语言，它能让写作者关注于写作内容本身，而不是文章的排版。个人觉得Markdown非常方便好用，特别写了一篇博客[Markdown使用指南](https://taylorliang.coding.me/blog/2017/10/28/markdown/#more)感兴趣的同学可以进去看一下。
+Markdown是一种电子风格的标记语言，它能让写作者关注于写作内容本身，而不是文章的排版。个人觉得Markdown非常方便好用，特别写了一篇博客[Markdown使用指南](https://liangmp.github.io/2017/10/28/markdown/#more)感兴趣的同学可以进去看一下。
 
 
 
