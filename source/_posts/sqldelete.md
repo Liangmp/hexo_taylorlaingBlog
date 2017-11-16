@@ -18,14 +18,14 @@ Drop  Table 表名称
 ## Delete
 delete用于删除表中的某一行或多行
 语法：
-'''sql
+```sql
 -- 删除某一行
 Delete From 表名称  Where 列名称=值
 -- 删除某一行
 Delete From 表名称  Where 列名称=值
 -- 或     
 Delete *  From  表名称
-'''
+```
 
 ## Truncate
 truncate用于清空表格中的数据，保留表格的结构、属性和索引等。
