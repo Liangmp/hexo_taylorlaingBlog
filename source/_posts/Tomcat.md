@@ -4,7 +4,6 @@ date: 2017-10-24 11:08:24
 tags:
   - tomcat
 categories:
-  - 技术
   - Programming
 ---
 ![](Tomcat/tomcat.png)
