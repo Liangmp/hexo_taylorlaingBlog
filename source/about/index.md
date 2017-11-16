@@ -27,6 +27,5 @@ date: 2017-10-24 22:39:07
 - Tweeter: &emsp;[Tweeter](https://twitter.com/liangmanping)
 - 简&nbsp;&nbsp;书: &nbsp;&nbsp;&nbsp; &emsp;[Liangmp](http://www.jianshu.com/u/fd9fbe96c3c2)
 - Github: &nbsp; &emsp;[Liangmp](https://github.com/Liangmp/)
->>>>>>> 1124d8af09d681bdddfe7c59e14de4a557a9ca0f
 ***
 ![](about/index/about.jpg)
