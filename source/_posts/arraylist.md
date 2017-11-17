@@ -63,8 +63,8 @@ public class test {
         resultList = new String[arrayList.size()];
         arrayList.toArray(resultList);
 
-        System.out.println(">>> Data in unknownList2: ");
         System.out.println(">>> Length of resultList: " + resultList.length);
+		System.out.println(">>> Data in unknownList2: ");
         for (int i=0; i<resultList.length; i++){
             System.out.println(resultList[i]);
         }
