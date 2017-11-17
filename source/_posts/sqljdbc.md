@@ -3,7 +3,7 @@ title: 如何使用JDBC连接数据库并且在Java程序中实现数据库查�
 date: 2017-11-15 23:58:42
 tags:
   - jdbc
-  - java
+  - Java
 categories:
   - Programming
 ---
