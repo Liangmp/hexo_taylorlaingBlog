@@ -1,5 +1,5 @@
 ---
-title: 数据库删除语句drop,delete和truncate的区别
+title: 数据库删除语句Drop, Delete和Truncate的区别
 date: 2017-11-16 15:26:59
 tags:
   - SQL
