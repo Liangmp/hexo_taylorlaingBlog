@@ -76,7 +76,7 @@ public class SQLHanlder {
 			SQLHanlder.connect(server, databaseName, userName, password);   // 调用登录数据库函数
 			System.out.println(">>> Connection has been built up successfully.");
 
-			// 第三步：利用上面创建的语句对象句柄，对数据库进行操作
+			// 第三步：创建语句对象句柄
 			statement = connection.createStatement();
 			statement.setQueryTimeout(30);
 
@@ -95,6 +95,7 @@ public class SQLHanlder {
 				}
 			}
 
+			// 第六步：关闭数据库连接
 			resultset.close(); // 关闭记录集
 			statement.close(); // 关闭语句对象句柄
 			connection.close(); // 关闭数据库连接
