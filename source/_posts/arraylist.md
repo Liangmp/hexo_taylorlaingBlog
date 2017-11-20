@@ -11,6 +11,8 @@ categories:
 
 ![](arraylist/1.png)
 
+推荐[浅谈Java 容器类（Set、List、Map）](https://test.zmblog.org/archives/289)这篇博文，个人觉得写得非常适合新手阅读，浅显易懂。
+
 先来说最常用的ArrayList。ArrayList是一个实现了List接口的可变数组。当需要读入的数据个数事先未知时，可以用ArrayList的add方法来依次获取数据，然后通过toArray的方法将ArrayList传到数组里面。请看下面一段Demo代码。
 
 ```java
