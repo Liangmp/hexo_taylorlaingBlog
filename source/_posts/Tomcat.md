@@ -26,6 +26,15 @@ Ps：在安装tomcat之前需要先安装JRE (Java Runtime Environment)
 
 ![localhost](Tomcat/10_localhost.png)
 
+Tomcat文件夹中包含以下子文件夹：
+- bin：用于存储Tomcat的启动和停止程序。里面的startup.bat和shutdown.bat分别用于启动和停止tomcat服务器
+- conf：用于存储Tomcat的配置文件。该目录中的server.xml文件用于配置服务器端口连接信息。
+- lib：
+- logs：
+- temp：
+- webapps：
+- work：
+
 下面我们来建立第一个jsp网页。找到tomcat安装目录，在webapps文件加下面新建一个文件夹，命名为“test”，在新建的test文件夹下面新建一个jsp文件，命名为“test.jsp”。
 
 ![new a jsp](11_newTest.png)
