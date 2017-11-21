@@ -23,5 +23,5 @@ Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEn
 Session ID: fddc45658ccd072059d891da10118e4e
 ```
 
-查看[ChromeDriver notes](https://chromedriver.storage.googleapis.com/2.33/notes.txt)，发现是ChromeDriver和Chrome版本不对称的问题。从错误中的提示来看，我运行的项目中`Chrome = version 62.0, ChromeDriver = version 2.29`，然而`ChromeDriver = version 2.29` only supports Chrome v59-61，下载更新到最新版本的ChromeDriver v2.33之后问题就解决了。
+查看[ChromeDriver notes](https://chromedriver.storage.googleapis.com/2.33/notes.txt)，发现是ChromeDriver和Chrome版本不对称的问题。从错误中的提示来看，我运行的项目中`Chrome = version 62.0, ChromeDriver = version 2.29`，然而`ChromeDriver = version 2.29` only supports Chrome v59-61，下载更新到最新版本的[ChromeDriver v2.33](https://chromedriver.storage.googleapis.com/index.html?path=2.33/)之后问题就解决了。
 ![](WebDriverException/2.png)
