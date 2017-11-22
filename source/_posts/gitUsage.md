@@ -35,6 +35,11 @@ git commit -m "commit message" //提交修改
 git push -u origin master //将缓存区的代码push到git的master分支
 ```
 
+## 克隆某个代码仓库
+```
+git clone git@github.com:userName/repositoryName.git
+```
+
 推荐阅读：
 - [廖雪峰的git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 - [天梯梦-git常用命令整理](http://justcoding.iteye.com/blog/1830388)
