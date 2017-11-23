@@ -76,3 +76,7 @@ insert into studentInfo values('3','Candy');
 select * from studentInfo;
 ```
 ![](MySQLUsage/6.png)
+
+***
+
+参考链接：[用命令创建MySQL数据库-华夏名网](http://www.sudu.cn/service/detail.php?id=11443)
