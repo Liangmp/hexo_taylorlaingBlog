@@ -1,12 +1,13 @@
----
-title: MySQL
+﻿---
+title: MySQL安装
 date: 2017-11-23 00:46:00
 tags:
   - SQL
+categories:
+  - SQL
 ---
-MySQL的简单介绍。（假装有介绍）
+MySQL是世界上最流行的开源数据库，MySQL有很多不同的版本，包括企业版、集群版、标准版、经典版和社区版，其中MySQL社区版是我们普通开发者常用的版本。下面介绍MySQL社区版的安装。<!--more-->
 
-## 安装MySQL
 下载地址[MySQL download]（https://dev.mysql.com/downloads），我用的是windows系统，因此下载mysql-installer-community-5.7.20.0.msi。下载完后双击打开安装包，进入到安装界面。
 
 在Choosing a Setup Type界面可以选择多种安装方式，第一种Developer Default是安装所有MySQL开发所用到的工具，选这种方式安装起来会比较慢，而且我们也不需要里面的所有工具，因此选最后一种安装方式Custom，点击Next。

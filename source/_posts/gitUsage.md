@@ -1,4 +1,4 @@
----
+﻿---
 title: Git常用命令行及github使用
 date: 2017-10-30 22:38:31
 tags:
@@ -39,6 +39,10 @@ git push -u origin master //将缓存区的代码push到git的master分支
 ```
 git clone git@github.com:userName/repositoryName.git
 ```
+
+你还可以通过`git --help`查看常用的git命令行。
+![](gitUsage/gitHelp.png)
+
 
 推荐阅读：
 - [廖雪峰的git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
