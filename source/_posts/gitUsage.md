@@ -17,6 +17,10 @@ git config --list //查看配置list
 ## 添加ssh-keygen
 // 先查看是否已有的SSH keys:
 ls -al ~/.ssh
+//  如果有，cd到SSH keys的目录
+cd ~/.ssh
+// 获取当前路径
+pwd
 // 如果没有，则新建ssh
 ssh-keygen -t rsa -C "youremail@domain.com"
 
@@ -38,6 +42,12 @@ git push -u origin master //将缓存区的代码push到git的master分支
 ## 克隆某个代码仓库
 ```
 git clone git@github.com:userName/repositoryName.git
+```
+
+## 关联新的远成仓库
+```
+git remote rm origin  // 取消当前的关联
+git remote add origin git@github.com:userName/anotherReposity.git // 关联新的远程仓库
 ```
 
 你还可以通过`git --help`查看常用的git命令行。
