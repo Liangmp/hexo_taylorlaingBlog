@@ -7,7 +7,9 @@ categories:
   - IELTS
 ---
 ![](beautifulSentences/ielts.jpg)
-本博文记录雅思阅读中遇到的优美句子，供学习借鉴，可以在写作中使用。持续更新中 : ) <!--more-->
+本博文记录雅思阅读中遇到的优美句子，供学习借鉴，可以在写作中使用。
+
+持续更新中 : ) <!--more-->
 
 ## 11T4R3 'This Marvellous Invention'
 1. Of all mankind's <b>manifold</b> creations, language must take pride of place. 
@@ -40,3 +42,14 @@ categories:
 2. Alan Macfarlane, progessor of anthropological science at King's College, Cambridge, has, like other historians, <b>spent decades wrestling with the enigma of the Industrial Revolution</b>.
 // wrestle: v. 摔跤，这里有折腾的意思
 // enigma: 难以理解的事物；谜
+
+## IELTS9 Test2 R3 'A neuroscientist reveals how to think differently'
+1. The best way to see things differently to other people is to <b>bombard</b> the brain with things it has never <b>encountered</b> before.
+
+2. Fear is a major <b>impediment</b> to thinking like an iconoclast and stops the average person in his tracks.
+
+3. There are many types of fear, but the two that <b>inhibit</b> iconoclastic thinking and people generally find difficult to deal with are *fear of uncertainty* and *fear of <b>public ridicule</b>*.
+
+4. This may seem like <b>trivial phobias</b>. But fear of public speaking, which everyone must do from time to time, afflicts one-third of the population.
+
+
