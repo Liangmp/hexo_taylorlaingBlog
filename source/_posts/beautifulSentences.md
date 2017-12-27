@@ -52,4 +52,11 @@ categories:
 
 4. This may seem like <b>trivial phobias</b>. But fear of public speaking, which everyone must do from time to time, afflicts one-third of the population.
 
+## IELTS9 Test4 R3 'The Development of Museums'
+1. <b>No wonder</b> that people who <b>stroll around exhibitions</b> are filled with <b>nostalgia</b>; the evidence in museums indicates that life was so much better in the past.
+// nostalgia: 怀旧之情
 
+2. In a related development, the sharp distinction between museum and heritage sites <b>on the one hand</b>, and theme parks <b>on the other</b>, is gradually evaporating.
+//The sharp distinction is evaporating.
+
+**_更新中_ :)**
