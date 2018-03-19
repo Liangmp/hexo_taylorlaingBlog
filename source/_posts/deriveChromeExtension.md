@@ -2,6 +2,9 @@
 title: 如何导出Chrome扩展程序
 date: 2018-03-19 01:28:51
 tags:
+  - 小技巧
+categories:
+  - 小技巧
 ---
 朋友想要给chrome安装某个扩展程序，但是没有vpn无法下载安装该扩展程序（如SwitchyOmega），这时你可以将已安装在你的chrome的该扩展程序导出给你朋友。那么问题来了，如何导出Chrome扩展程序呢？本文以导出Proxy SwitchyOmega为例。<!--more-->
 
