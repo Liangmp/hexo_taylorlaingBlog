@@ -6,9 +6,9 @@ tags:
 categories:
   技术
 ---
-1. 买一个vpn（或者找一个免费的vpn也行）
+1. 买一个vpn（或者找一个免费的vpn也行），在此推荐我目前使用的vpn，叫[一枝红杏](http://order.yizhihongxing2017.com/aff.php?aff=9375)
 2. 下载一个chrome插件，叫SwithcyOmega
-3. 安装SwitchyOmega，安装方式简单粗暴，打开Chrome，把SwitchyOmega直接拖到浏览器里面就OK了
+3. 安装SwitchyOmega，安装方式简单粗暴，打开Chrome，把SwitchyOmega直接拖到浏览器里面就OK了。
 4. 设置SwitchyOmega，设置成自动切换
 5. 下载shadowsocks。打开shadowsocks，填入购买的IP地址，端口号，密码，加密方式
 ![](v-p-n/shadowsocks.png)
