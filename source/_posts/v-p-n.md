@@ -12,3 +12,7 @@ categories:
 4. 设置SwitchyOmega，设置成自动切换
 5. 下载shadowsocks。打开shadowsocks，填入购买的IP地址，端口号，密码，加密方式
 ![](v-p-n/shadowsocks.png)
+
+***
+update
+[一枝红杏](http://order.yizhihongxing2018.com/aff.php?aff=9375)目前这个link已被和谐，需要vpn才能访问（很矛盾是不是，一个卖vpn的网站居然需要vpn才能访问），因此如果需要的朋友可以直接联系我帮忙购买。

@@ -26,6 +26,9 @@ categories:
 
 ## 其他配置
 
+### 网页标签icon修改
+网页标签icon的存放地址为`\themes\next\source\images\` 将里面的相应图标修改成自己喜欢的图标即可，在此推荐[阿里巴巴矢量图标库](http://www.iconfont.cn/)，里面的icon非常丰富。
+
 ### footer页脚设置
 这段代码用于设置footer页脚的显示，这里可以根据自己的喜好，将Icon between year and copyright info修改成`icon: heart`
 ![](nextHexo/footer.png)
@@ -63,3 +66,23 @@ hexo hew page "about" // 开启about功能，将会在source文件夹下自动�
 ![](nextHexo/livere.png)
 
 next提供了大量的个性化配置选项，你想要的功能大部分够可以在next的yml配置文件中找到，而且都有使用说明的注释，只要你认真阅读，肯定能挖掘出不少好玩的东西，在这里我就只介绍几个，剩下的留给聪明的你自己探索吧。
+
+***
+__致谢__
+非常感谢[windliang](http://windliang.cc/)在知识星球_帅张和他的朋友们_给我的关于个人网站建设的回答,你的博客给予了我很大的帮助。
+
+__友情链接__
+[建立博客系列（三）：hexo安装配置](http://windliang.cc/2017/01/23/%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2%E7%B3%BB%E5%88%97%EF%BC%88%E4%B8%89%EF%BC%89%EF%BC%9Ahexo%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE/)
+[建立博客系列（四）：Next主题相关配置](http://windliang.cc/2017/01/28/%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2%E7%B3%BB%E5%88%97%EF%BC%88%E5%9B%9B%EF%BC%89%EF%BC%9ANext%E4%B8%BB%E9%A2%98%E7%9B%B8%E5%85%B3%E9%85%8D%E7%BD%AE/)
+[打造个性超赞博客Hexo+NexT+GithubPages的超深度优化](https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html)
+[自定义网页样式布局](http://www.cduyzh.com/hexo-settings-3/)
+
+__博客推荐__
+[reuixiy](https://reuixiy.github.io/)
+[windliang](http://windliang.cc/)
+[ookamiAntD's Blog](http://yangbingdong.com/)
+[DONGChuan](http://dongchuan.github.io/)
+[Water Sister's Blog](http://www.cduyzh.com/)
+[YAODONG WANG](http://captwang.info/)
+[世靖的码场](https://blog.csdn.net/qdbszsj?t=1)
+[Kelvin.Liang](https://kelvin.link/)

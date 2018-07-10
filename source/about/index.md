@@ -13,8 +13,9 @@ comments: false
 ***
 
 ## Education
-- __2011-2014__&nbsp;&emsp;珠海市斗门区第一中学
-- __2014-2018__&nbsp;&emsp;中山大学&nbsp;Sun Yat-sen University
+- __2011-2014__&nbsp;&emsp;No.1 High School of Doumen, Zhuhai
+- __2014-2018__&nbsp;&emsp;Sun Yat-sen University
+- __2018-Now__&nbsp;&emsp;The University of Hong Kong
 
 ***
 ## Interests

@@ -5,9 +5,10 @@
 # Site
 title: TaylorLiang's Blog
 subtitle:
-description: 生命不止，折腾不息.
+description: 生命不息，折腾不止.
 author: Taylor Liang
-language: zh-Hans
+# language: zh-Hans
+language: en
 timezone:
 avatar: /images/head.jpg
 
